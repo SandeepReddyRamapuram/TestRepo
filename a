@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 hello
 hi
@@ -6,3 +7,7 @@ hi
 
 
 clear
+=======
+#file A
+which contains nothing am just editing text to check how its working....!
+>>>>>>> 9bad9e9cc2b972c79bbc783ec47e4ad6d718dc88
